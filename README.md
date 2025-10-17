@@ -46,8 +46,12 @@ each folder contains solved problems related to that topic
  - version control : git/github
 
 ---
+## 📘 Daily Log
+[View the full daily log](DAILY_LOG.md)
 
-If you're also working on your DSA journey, fork this repo, start solving and let's keep growing together <33
+---
+
+if you're also working on your DSA journey, fork this repo, start solving and let's keep growing together <33
 
 ---
 let's connect!
