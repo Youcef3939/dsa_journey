@@ -37,3 +37,20 @@ each folder contains solved problems related to that topic
 **exemple:**
 
 2025-10-17: two_sum.py
+
+---
+
+## tech stack
+
+ - language        : python
+ - version control : git/github
+
+---
+
+If you're also working on your DSA journey, fork this repo, start solving and let's keep growing together <33
+
+---
+let's connect!
+
+[![GitHub Badge](https://img.shields.io/badge/-Youcef3939-black?style=flat&logo=github)](https://github.com/Youcef3939)
+[![LinkedIn Badge](https://img.shields.io/badge/-Youcef%20Chalbi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/youcefchalbi)
