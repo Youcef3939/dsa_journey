@@ -4,20 +4,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Youcef3939-black?logo=github)](https://github.com/Youcef3939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youcef%20Chalbi-blue?logo=linkedin)](https://linkedin.com/in/youcefchalbi)
 
-Welcome to my **Data Structures and Algorithms (DSA)** journey!  
-This repository documents my daily progress solving algorithmic problems from platforms like **HackerRank**, **Codewars**, **Exercism**, and other free LeetCode alternatives.
+welcome to my **data structures and algorithms (DSA)** journey!  
+this repository documents my daily progress solving algorithmic problems from platforms like **HackerRank**, **Codewars**, **Exercism**, and other free LeetCode alternatives
 
 ---
 
-## 🚀 Goals
-- Strengthen my **problem-solving** and **analytical thinking** skills
-- Improve fluency in **Python** through consistent practice
-- Solve **at least one problem per day** and push it to GitHub  
-- Build a **public record** of consistency and growth 
+## 🚀 goals
+- strengthen my **problem-solving** and **analytical thinking** skills
+- improve fluency in **Python** through consistent practice
+- solve **at least one problem per day** and push it to GitHub  
+- build a **public record** of consistency and growth 
 
 ---
 
-## 📂 Repository Structure
+## 📂 repository Structure
 ```
 dsa-journey/
 ├── arrays/
