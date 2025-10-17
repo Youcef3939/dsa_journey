@@ -10,11 +10,19 @@ This repository documents my daily progress solving algorithmic problems from pl
 ---
 
 ## 🚀 Goals
-- Strengthen my **problem-solving** and **analytical thinking** skills.  
-- Improve fluency in **Python** through consistent practice.  
-- Solve **at least one problem per day** and push it to GitHub.  
-- Build a **public record** of consistency and growth.  
+- Strengthen my **problem-solving** and **analytical thinking** skills
+- Improve fluency in **Python** through consistent practice
+- Solve **at least one problem per day** and push it to GitHub  
+- Build a **public record** of consistency and growth 
 
 ---
 
 ## 📂 Repository Structure
+
+dsa-journey/
+├── arrays/
+├── strings/
+├── linked_lists/
+├── dynamic_programming/
+├── graphs/
+└── README.md
