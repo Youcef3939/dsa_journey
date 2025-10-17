@@ -1,6 +1,6 @@
 # 🧩 DSA Journey
 
-[![Progress](https://img.shields.io/badge/🔥%20Day%203%20of%20100-DSA%20Challenge-orange)](https://github.com/Youcef3939/dsa-journey)
+![Commits](https://img.shields.io/github/commit-activity/m/Youcef3939/dsa-journey?style=flat-square&logo=github)
 [![GitHub](https://img.shields.io/badge/GitHub-Youcef3939-black?logo=github)](https://github.com/Youcef3939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youcef%20Chalbi-blue?logo=linkedin)](https://linkedin.com/in/youcefchalbi)
 
