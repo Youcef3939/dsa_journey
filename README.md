@@ -31,5 +31,8 @@ dsa-journey/
 ---
 
 each folder contains solved problems related to that topic  
-**File naming convention:** YYYY:MM:DD_problem-name.py
+**File naming convention:** YYYY-MM-DD_problem-name.py
 
+**exemple:**
+
+2025-10-17_two_sum.py
