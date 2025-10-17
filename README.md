@@ -20,15 +20,10 @@ This repository documents my daily progress solving algorithmic problems from pl
 ## 📂 Repository Structure
 ```
 dsa-journey/
-|-- arrays/
-|
-|-- strings/
-|
-|-- linked_lists/
-|
-|-- dynamic_programming/
-|
-|-- graphs/
-|
-|-- README.md
+├── arrays/
+├── strings/
+├── linked_lists/
+├── dynamic_programming/
+├── graphs/
+└── README.md
 ```
