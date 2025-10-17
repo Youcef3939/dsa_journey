@@ -18,7 +18,7 @@ This repository documents my daily progress solving algorithmic problems from pl
 ---
 
 ## 📂 Repository Structure
-
+```
 dsa-journey/
 |-- arrays/
 |
@@ -31,3 +31,4 @@ dsa-journey/
 |-- graphs/
 |
 |-- README.md
+```
