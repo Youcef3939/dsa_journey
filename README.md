@@ -1,12 +1,12 @@
 # 🧩 DSA Journey
 
-![Commits](https://img.shields.io/github/commit-activity/m/Youcef3939/dsa-journey?style=flat-square&logo=github)
+![DSA Progress](https://img.shields.io/badge/🔥%20Day%202-DSA%20Challenge-brightgreen)
 [![GitHub](https://img.shields.io/badge/GitHub-Youcef3939-black?logo=github)](https://github.com/Youcef3939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youcef%20Chalbi-blue?logo=linkedin)](https://linkedin.com/in/youcefchalbi)
 
 welcome to my **data structures and algorithms (DSA)** journey!  
 this repository documents my daily progress solving algorithmic problems from platforms like **HackerRank**, **Codewars**, **Exercism**, and other free LeetCode alternatives
-
+![alt text](image.png)
 ---
 
 ## 🚀 goals
