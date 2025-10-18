@@ -6,6 +6,8 @@
 
 welcome to my **data structures and algorithms (DSA)** journey!  
 this repository documents my daily progress solving algorithmic problems from platforms like **HackerRank**, **Codewars**, **Exercism**, and other free LeetCode alternatives
+
+---
 ![alt text](image.png)
 ---
 
