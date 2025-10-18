@@ -6,7 +6,7 @@ if no profit is possible, return 0
 Problem: best time to buy and sell stock
 Difficulty: Easy
 Date: 2025-10-18
-Notes: Track the minimum price so far, update max profit each step
+Notes: track the minimum price so far, update max profit each step
 """
 
 from typing import List
