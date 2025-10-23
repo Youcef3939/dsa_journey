@@ -1,7 +1,5 @@
 # 🧩 DSA Journey
 
-<img width="605" height="600" alt="Youcef" src="https://github.com/user-attachments/assets/769dddd4-2583-4ddb-9bab-1103e12a5399" />
-
 ![DSA Progress](https://img.shields.io/badge/🔥%20Day%202-DSA%20Challenge-brightgreen)
 [![GitHub](https://img.shields.io/badge/GitHub-Youcef3939-black?logo=github)](https://github.com/Youcef3939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youcef%20Chalbi-blue?logo=linkedin)](https://linkedin.com/in/youcefchalbi)
